@@ -2,8 +2,8 @@ function Header() {
   return (
     <header>
       <h1>
-        <img src="public\logo.png"></img>
-        <img src="public\texto.png"></img>
+        <img src="/logo.png" alt="logo"></img>
+        <img src="/texto.png" alt="texto" ></img>
         <span className="sr-only"></span>
       </h1>
     </header>
