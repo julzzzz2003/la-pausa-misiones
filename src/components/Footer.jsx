@@ -1,7 +1,7 @@
 function Footer() {
   return (
     <footer>
-      <p>&copy; 2025 - Ejemplo generico / Flashar</p>
+      <p>&copy; 2025 - Posadas Misiones CP 3300</p>
     </footer>
   )
 }

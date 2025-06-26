@@ -6,8 +6,6 @@ function Contacto() {
       <section className="contacto-contenido">
         {/* Columna 1: Información */}
         <div className="columna">
-          {/* Si quiero titulos 
-          h3>Informacion</h3> */}
           <address>
             Misiones 5357<br />
             Posadas, Misiones<br />
